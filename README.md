@@ -1,4 +1,13 @@
-# monster_slayer
+# Simple Logic Game
+> Hello! Thanks for checking out the repo for my latest portfolio website. This website isn't just my new portfolio, but also a personal project in and of itself.
+
+## Built with 
+* Vue JS
+* HTML
+* CSS
+* Javascript
+* Bootstrap
+* Font Awesome
 
 ## Project setup
 ```
